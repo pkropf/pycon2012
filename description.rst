@@ -22,26 +22,48 @@ This talk with introduce the Arduino microcontroller and show how to interact wi
 Outline
 -------
 
- * Introduction
- * Overview of the Arduino
- * Open Source Hardware and Software
- * Hardware
-   * Microcontroller
-   * I/O pins
-   * Serial port(s)
-   * USB port
- * Software
-   * IDE
-   * Code in C
-   * Extensive library
- * Python controlling an Arduino
- * USB based serial port
- * Serial protocols
-   * Home grown
-   * Modbus
-   * Firmata
-   * Errors will happen
- * Examples
-   * Exuro - robot with a pair of 2 axis gimbles
-   * Fire Effects - Solenoid sequence controls
- * Questions and Comments
+* Introduction
+
+* Overview of the Arduino
+
+* Open Source Hardware and Software
+
+* Hardware
+
+  * Microcontroller
+
+  * I/O pins
+
+  * Serial port(s)
+
+  * USB port
+
+* Software
+
+  * IDE
+
+  * Code in C
+
+  * Extensive library
+
+* Python controlling an Arduino
+
+* USB based serial port
+
+* Serial protocols
+
+  * Home grown
+
+  * Modbus
+
+  * Firmata
+
+  * Errors will happen
+
+* Examples
+
+  * Exuro - robot with a pair of 2 axis gimbles
+
+  * Fire Effects - Solenoid sequence controls
+
+* Questions and Comments
