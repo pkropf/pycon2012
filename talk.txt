@@ -1,0 +1,42 @@
+title: Python Meets the Arduino
+
+kind: talk
+
+category: industry uses
+
+audience level: intermediate
+
+extreme: yes
+
+duration: 30 minutes
+
+description: If your talk is accepted this will be made public and
+printed in the program. Should be one paragraph, maximum 400
+characters
+
+
+Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. Python is our favorate programming language that allows you to integrate systems more effectively. Learn how to use Python to communicate with an Arduino and interact with sensors, solenoids and motors.
+
+
+
+abstract: Detailed description and outline. Will be made public if
+your talk is accepted. Edit using Markdown.
+
+
+Additional notes: Anything else you'd like the program committee to
+know when making their selection: your past speaking experience, open
+source community experience, etc. Edit using Markdown.
+
+I've given talks at various trade shows and conferences. Way back in
+the days of yesteryear, I gave talks on VAX/VMS systems at Decus. More
+recently I presented a poster session at PyCon 2011 and currently
+teach industrial arts at The Crucible.
+
+My blog can be found at http://peterkropf.com and some code
+repositories can be seen at https://github.com/pkropf.
+
+My past open source work includes:
+
+ * Python interface for the OWFS library: http://owfs.org
+ * Various Trac plugins
+ * Various Nagios plugins
