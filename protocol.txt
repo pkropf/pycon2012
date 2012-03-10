@@ -1,0 +1,5 @@
+A simple serial line protocol. Each section is a byte.
+
++-------+-------+-------+-------+
+|  255  |  CMD  |   P1  |   P2  |
++-------+-------+-------+-------+
